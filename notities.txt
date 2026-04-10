@@ -1,1 +1,2 @@
 Dit is mijn tweede bestand. Ik leer nu hoe Git werkt!
+Dit is een nieuwe regel tekst in de branch!
